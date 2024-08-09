@@ -1,0 +1,6 @@
+langchain
+openai
+serpapi
+langchain-openai
+langchain-community
+streamlit
